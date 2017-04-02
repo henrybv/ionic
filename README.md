@@ -34,4 +34,4 @@ It is the perfect starting point for learning and building your own app.
 ### Ionic 1.x
 
 The source code for Ionic 1.x has been moved to [driftyco/ionic-v1](https://github.com/driftyco/ionic-v1).
-Please open any issues and pull requests related to Ionic 1.x on that repository.
+Please open any issues and pull requests related to Ionic 1.x on that repository
